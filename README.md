@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @injae7034
 - 👀 I’m interested in programming.
-- 🌱 I learn C, C++, WIn32Api, MFC, MySQL and how to link between MySQL and program.
-- 💞️ I’m looking to collaborate on another programmers to make group project.
+- 🌱 I learned C, C++, WIn32Api, MFC, MySQL and how to link between MySQL and program.
+- 💞️ Plus I am very interested in OOP programming and applying design patterns.
+- 🤔 Thesedays I am studying Java and making programs with Java.
 - 📫 If you want to reach me, plz send me an email(injae7034@gamail.com). Thanks^^ 
 
 <!---
