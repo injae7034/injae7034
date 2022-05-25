@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I learned C, C++, WIn32Api, MFC, MySQL and how to link between MySQL and program.
 - 💞️ Plus I am very interested in OOP programming and applying design patterns.
-- 🤔 Thesedays I am studying Java and making programs with Java.
+- 🤔 Thesedays I am studying Java, Spring, JPA and making programs with Java.
 - 📫 If you want to reach me, plz send me an email(injae7034@gamail.com). Thanks^^ 
 
 <!---
