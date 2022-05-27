@@ -1,6 +1,6 @@
 - 👋 안녕하세요 개발인재가 되고 싶은 개발자 injae입니다.
-- 👀 저는 C, C++, Win32Api, MFC, MySQL을 이용해 여러 데스크톱 프로젝트를 구현하였습니다.
-- 👍 특히 윈도우메모장을 클론코딩하면서 유즈케이스에 대해 일일이 설계해보고, 여러 디자인패턴도 적용하였습니다.
+- 👀 저는 C, C++, Win32Api, MFC, MySQL을 이용해 여러 데스크톱 프로젝트를 구현하였습니다. ex) 명함철 https://github.com/injae7034/BinarySearchTree_Desktop_Project_C_CPlusPlus/tree/main/CompanyIndexBinder
+- 👍 특히 윈도우메모장을 클론코딩하면서 유즈케이스에 대해 일일이 설계해보고, 여러 디자인패턴도 적용하였습니다. https://github.com/injae7034/CPlusPlus-WindowNotepad
 - 🎉 최근에 자바와 스프링, JPA와 헥사고날 아키텍처를 사용해 간단한 토이프로젝트를 만들었습니다. https://github.com/injae7034/web_project_addressbook
 - 🌱 더 공부하고, 공부한 것들을 바탕으로 앞으로도 계속해서 프로젝트를 만들 것입니다.
 - 💞️ 객체지향 설계에 관심이 많고, 도메인 주도 설계, 클린 아키텍처에 관심이 많습니다.
