@@ -1,5 +1,5 @@
 - 👋 안녕하세요 개발인재가 되고 싶은 개발자 박인재입니다.
-- 👀 저는 C, C++, Win32Api, MFC, MySQL을 이용해 여러 데스크톱 프로젝트를 구현해 본 경험이 있습니다. ex) 명함철 https://github.com/injae7034/BinarySearchTree_Desktop_Project_C_CPlusPlus/tree/main/CompanyIndexBinder
+- 👀 저는 C, C++, Win32Api, MFC, **MySQL**을 이용해 여러 데스크톱 프로젝트를 구현해 본 경험이 있습니다. ex) 명함철 https://github.com/injae7034/BinarySearchTree_Desktop_Project_C_CPlusPlus/tree/main/CompanyIndexBinder
 - 👍 특히 윈도우메모장을 클론코딩하면서 유즈케이스에 대해 일일이 설계해보고, 여러 **디자인패턴**도 적용하였습니다. https://github.com/injae7034/CPlusPlus-WindowNotepad
 - 😎 위의 링크에서 보시다시피 저는 설계시 **메모리맵, 클래스다이어그램, 유즈케이스 등을 적극적으로 이용합니다.**
 - 🎉 최근에 자바와 스프링, JPA와 헥사고날 아키텍처를 사용해 간단한 토이프로젝트를 만들었습니다. https://github.com/injae7034/web_project_addressbook
