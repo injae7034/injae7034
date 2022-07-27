@@ -5,7 +5,7 @@ ex1) **BinarySearchTree**를 활용해 회사명을 **index**로 가지는 명�
 ex2) **LinkedList**를 활용한 명함철 https://github.com/injae7034/LinkedList_Desktop_Project_C_CPlusPlus_Java/tree/main/VisitingCardBinder  
 ex3) **Array**와 **추상클래스**를 활용한 가계부 https://github.com/injae7034/Array_Desktop_Project_C_CPlusPlus_Java/tree/main/AccountBook  
 
-- 👍 특히 윈도우메모장을 클론코딩하면서 유즈케이스에 대해 일일이 설계해보고, 여러 **디자인패턴**도 적용하였습니다.  
+- 👍 특히 윈도우메모장을 클론코딩하면서 **유즈케이스**에 대해 일일이 설계해보고, 여러 **디자인패턴**도 적용하였습니다.  
 https://github.com/injae7034/CPlusPlus-WindowNotepad
 - 😎 위의 링크에서 보시다시피 저는 설계시 **메모리맵, 클래스다이어그램, 유즈케이스 등을 적극적으로 이용합니다.**
 - 🎉 최근에 자바와 스프링, JPA와 헥사고날 아키텍처를 사용해 간단한 토이프로젝트를 만들었습니다.  
