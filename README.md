@@ -3,7 +3,7 @@
 
 - 🎉 **2022년 우아한 스터디** - 헥사고날 아키텍쳐로 구현하는 작은 스프링 부트 토이 프로젝트에 참여하였습니다.  
 - 🐱‍🏍 이 후 헥사고날 아키텍처를 적용해 간단한 토이프로젝트(**Java, Spring, JPA**)를 만들었습니다.  
-ex) https://github.com/injae7034/web_project_addressbook
+ex) https://github.com/injae7034/wwhstudy-cleanarch-project
 - 💞️ 객체지향 설계에 관심이 많고, 도메인 주도 설계, 클린 아키텍처에 관심이 많습니다.
 - 😊 저는 여러 설계 도구와 이미지, 말과 글로 설명하는 것을 좋아합니다.
 - 📫 기술블로그 https://injae7034.github.io/ 를 운영하고 있습니다.
